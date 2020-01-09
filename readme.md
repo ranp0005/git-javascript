@@ -1,2 +1,2 @@
-Title-Git JavaScript
-Full name-Prarthan Ranpura
+#Git JavaScript
+##Prarthan Ranpura
