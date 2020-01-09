@@ -1,2 +1,2 @@
-#Git JavaScript
-##Prarthan Ranpura
+# Git JavaScript
+## Prarthan Ranpura
